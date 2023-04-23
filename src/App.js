@@ -8,7 +8,6 @@ import Register from "./components/register/Register";
 import Login from "./components/login/Login";
 
 function App() {
-  const isLog = true;
   return (
     <>
       <NavBar />
